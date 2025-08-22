@@ -1,0 +1,15 @@
+# .gitignore
+
+# Python stuff
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+checkpoints/
+lightning_logs/
